@@ -1,4 +1,5 @@
-### Hi there 👋 \nI am Mobile developer from Indonesia 🇮🇩
+### Hi there 👋 
+## I am Mobile developer from Indonesia 🇮🇩
 
 <!--
 **dqbigd/dqbigd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
