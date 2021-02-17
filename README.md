@@ -1,8 +1,7 @@
 ### Hi there 👋 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dqbigd&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqbigd&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqbigd&hide=javascript,shell&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
 
-- 📱 I’m mobile developer from Indonesia 🇮🇩
 <!--
 **dqbigd/dqbigd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
