@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - 📱 I’m mobile developer from Indonesia 🇮🇩
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dqbigd&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
-[![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=dqbigd&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dqbigd&show_icons=true&theme=algolia)](https://github.com/dqbigd/dqbigd)
 
 
 <!--
