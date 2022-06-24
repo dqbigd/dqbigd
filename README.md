@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Diqi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Diqi <img src="https://media.giphy.com/media/Sx1EP42BSUn6UOa9zU/giphy.gif" width="30px"></h1>
 <h3 align="center">Mobile App Developer from Indonesia🇮🇩</h3>
 
 <h3 align="left">Languages and Tools:</h3>
